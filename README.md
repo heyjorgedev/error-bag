@@ -1,0 +1,1 @@
+# ErrorBag extension

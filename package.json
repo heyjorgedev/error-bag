@@ -1,0 +1,23 @@
+{
+  "name": "error-bag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.155",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "validate-typescript": "^4.0.2"
+  }
+}
